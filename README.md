@@ -1,8 +1,3 @@
-url-files-to-markdown
-=====================
-### How to use
-```
---dir={target}
-```
-### TODOs
-- [ ] file urls (e.g. "application/pdf")
+SOCKS5-playground
+=================
+[SOCKS - Wikipedia](https://en.wikipedia.org/wiki/SOCKS)
